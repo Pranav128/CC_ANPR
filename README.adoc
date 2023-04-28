@@ -1,2 +1,2 @@
-
+To open Snapshot folder go to the src/test/resources/snapshots
 image:./docs/img/screenshot.png["JavaANPR GUI", scaledwidth="25%"]
